@@ -8,7 +8,7 @@
 - I'm a Blockchain & Web Developer <b>currently</b> based in Nigeria, experienced in HTML5, CSS3, javaScript, React, Solidity ....
 - Experience with CSS Library bootstrap, EJS, Node JS with Express
 - I'm actively contributing to Binance Smart Chain Projects
-- Core Member of <a href="https://github.com/oreoswap">OreoSwap</a>
+- Contributor at <a href="https://github.com/oreoswap">OreoSwap</a>
 - learning new technologies 
 - I'm overly ready to pick new challenges
 - At my leisure time, i love watching movies
