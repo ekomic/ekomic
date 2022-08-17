@@ -34,6 +34,6 @@
 [<img align="left" alt="Twitter " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[twitter]: https://twitter.com/ojemehprogrex
-[linkedin]: https://www.linkedin.com/in/ojemeh-progress-459730190
+[twitter]: https://twitter.com/ojemeh
+[linkedin]: https://www.linkedin.com/in/ojemeh-progre9730190
 Email: ekomchris2016@gmail.com
