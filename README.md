@@ -3,9 +3,9 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/ekomdamalu2016?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fekomdamalu2016&screen_name=ekomdamalu2016)
 
 
-## I Used to be a Civil Engineer now a Software Engineer!
+## Software Engineer!
 
-- I'm a Blockchain & Web Developer <b>currently</b> based in Nigeria, experienced in HTML5, CSS3, javaScript, React, Solidity ....
+- I'm a Blockchain & Web Developer <b>currently</b> based in Nigeria, experienced in HTML5, CSS3, javaScript, React, Solidity etc
 - Experience with CSS Library bootstrap, EJS, Node JS with Express
 - I'm actively contributing to Binance Smart Chain Projects
 - Contributor at <a href="https://github.com/oreoswap">OreoSwap</a>
