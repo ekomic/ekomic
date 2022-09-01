@@ -3,7 +3,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/ekomdamalu2016?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fekomdamalu2016&screen_name=ekomdamalu2016)
 
 
-## I'm a Frontend Developer!!
+## I Used to be a Civil Engineer now a Software Engineer!
 
 - I'm a Blockchain & Web Developer <b>currently</b> based in Nigeria, experienced in HTML5, CSS3, javaScript, React, Solidity ....
 - Experience with CSS Library bootstrap, EJS, Node JS with Express
