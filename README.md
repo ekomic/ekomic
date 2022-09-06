@@ -1,4 +1,4 @@
-### Hello there, i'm Chris, U can as well call me HardHat 😜
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Chris'+GitHub+Profile!)](https://git.io/typing-svg)
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ekomdamalu2016?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fekomdamalu2016&screen_name=ekomdamalu2016)
 
