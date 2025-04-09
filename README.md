@@ -6,12 +6,12 @@
 ## Software Engineer!
 
 - I'm a Blockchain & Web Developer <b>currently</b> based on Computer and working on going to MARS, experienced in HTML5, CSS3, javaScript, Nextjs, Reactjs, Solidity etc
-- Experience with CSS Library Tailwind, bootstrap, EJS, Node JS with Express
-- I'm actively contributing to Binance Smart Chain Projects
+- Experience with CSS Library Tailwind, bootstrap and EJS, Node JS with Express
+- I'm actively contributing to web3 ecosystems and dApps!
 - Contributor at <a href="https://github.com/oreoswap">OreoSwap</a>
 - learning new technologies 
 - I'm overly ready to pick new challenges
-- At my leisure time, i love watching movies
+- At my leisure time, i love talking shits on X, shits mainly around web3!
 
 ## Languages and Tools:
 
