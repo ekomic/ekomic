@@ -5,8 +5,8 @@
 
 ## Software Engineer!
 
-- I'm a Blockchain & Web Developer <b>currently</b> based in Nigeria, experienced in HTML5, CSS3, javaScript, React, Solidity etc
-- Experience with CSS Library bootstrap, EJS, Node JS with Express
+- I'm a Blockchain & Web Developer <b>currently</b> based on Computer and working on going to MARS, experienced in HTML5, CSS3, javaScript, Nextjs, Reactjs, Solidity etc
+- Experience with CSS Library Tailwind, bootstrap, EJS, Node JS with Express
 - I'm actively contributing to Binance Smart Chain Projects
 - Contributor at <a href="https://github.com/oreoswap">OreoSwap</a>
 - learning new technologies 
@@ -39,6 +39,5 @@
 [<img align="left" alt="Twitter " width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[twitter]: https://twitter.com/ekomdamalu2016
-[linkedin]: https://www.linkedin.com/in/christopher-ekom-16929a128/ 
+[twitter]: https://twitter.com/btcmonie
 
