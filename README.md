@@ -5,7 +5,7 @@
 
 ## Software Engineer!
 
-- I'm a Blockchain & Web Developer <b>currently</b> based on Computer and working on going to MARS, experienced in HTML5, CSS3, javaScript, Nextjs, Reactjs, Solidity etc
+- I'm a Blockchain & Web Developer <b>currently</b> based in planet Computer and working on going to MARS, experienced in Solidity, HTML5, CSS3, javaScript, Nextjs, Reactjs, etc
 - Experience with CSS Library Tailwind, bootstrap and EJS, Node JS with Express
 - I'm actively contributing to web3 ecosystems and dApps!
 - Contributor at <a href="https://github.com/oreoswap">OreoSwap</a>
