@@ -8,7 +8,7 @@
 - I'm a Blockchain & Web Developer <b>currently</b> based in planet Computer and working on going to MARS, experienced in Solidity, HTML5, CSS3, javaScript, Nextjs, Reactjs, etc
 - Experience with CSS Library Tailwind, bootstrap and EJS, Node JS with Express
 - I'm actively contributing to web3 ecosystems and dApps!
-- Contributor at <a href="https://github.com/oreoswap">OreoSwap</a>
+- Contributor at <a href="https://github.com/ArcFlow-Finance">ArcFlow Finance</a>
 - learning new technologies 
 - I'm overly ready to pick new challenges
 - At my leisure time, i love talking shits on X, shits mainly around web3!
